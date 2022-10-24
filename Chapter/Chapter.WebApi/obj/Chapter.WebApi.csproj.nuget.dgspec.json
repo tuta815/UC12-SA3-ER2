@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj": {}
+    "C:\\Users\\arthu\\Desktop\\curso fullstack\\UC12 - CODIFICAÇÃO PARA BACK-END\\SA3\\Chapter\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj": {
+    "C:\\Users\\arthu\\Desktop\\curso fullstack\\UC12 - CODIFICAÇÃO PARA BACK-END\\SA3\\Chapter\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Desktop\\curso fullstack\\UC12 - CODIFICAÇÃO PARA BACK-END\\SA3\\Chapter\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
         "projectName": "Chapter.WebApi",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\seguranca\\Chapter\\Chapter.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\arthu\\Desktop\\curso fullstack\\UC12 - CODIFICAÇÃO PARA BACK-END\\SA3\\Chapter\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
+        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arthu\\Desktop\\curso fullstack\\UC12 - CODIFICAÇÃO PARA BACK-END\\SA3\\Chapter\\Chapter\\Chapter.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -141,3 +141,63 @@ C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Debug\net5.0
 C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.pdb
 C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.genruntimeconfig.cache
 C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Debug\net5.0\web.config
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\web.config
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.StaticWebAssets.xml
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.exe
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.deps.json
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.pdb
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\refint\Chapter.WebApi.dll
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.pdb
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documents\Chapter\Chapter.WebApi\obj\Debug\net5.0\ref\Chapter.WebApi.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\web.config
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.StaticWebAssets.xml
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.exe
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.deps.json
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.runtimeconfig.json
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Chapter.WebApi.pdb
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.AssemblyInfo.cs
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\scopedcss\bundle\Chapter.WebApi.styles.css
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\staticwebassets\Chapter.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.csproj.CopyComplete
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\refint\Chapter.WebApi.dll
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.pdb
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\Chapter.WebApi.genruntimeconfig.cache
+C:\Users\arthu\Desktop\curso fullstack\UC12 - CODIFICAÇÃO PARA BACK-END\SA3\Chapter\Chapter.WebApi\obj\Debug\net5.0\ref\Chapter.WebApi.dll
